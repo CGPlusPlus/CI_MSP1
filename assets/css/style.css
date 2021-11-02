@@ -1,9 +1,54 @@
 @import url('https://fonts.googleapis.com/css2?family=Hachi+Maru+Pop&display=swap');
 
-body{
-    font-family: 'Courier New';
+/* remove default margin/padding/borders */
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
 }
 
-.logo {
+body {
+    font-family: 'Courier New';
+    color: #3a3a3a;
+}
+
+/* Logo specific styling*/
+#logo {
     font-family: 'Hachi Maru Pop', cursive;
+    font-size: 300%;
+    float: left;
+}
+
+/* Header Navigation links */
+
+#header-menu {
+    float: right;
+    
+}
+#menu {
+    font-size: 90%;
+    letter-spacing: 4px;
+}
+
+#menu li {
+    display: inline;
+    list-style-type: none;
+    margin-right: 20px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu a:hover {
+    border-bottom: 1px solid #3a3a3a;
+}
+
+#header-menu, #logo {
+    line-height: 75px;
+}
+
+.active {
+    border-bottom: 1px solid #3a3a3a;
 }
