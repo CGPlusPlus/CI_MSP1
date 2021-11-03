@@ -15,9 +15,10 @@ body {
 /* Logo specific styling*/
 #logo {
     font-family: 'Hachi Maru Pop', sans-serif;
-    font-size: 300%;
+    font-size: 250%;
     float: left;
     color: #3a3a3a;
+    margin-left: 3%;
 }
 
 /* Header Navigation links */
@@ -28,7 +29,7 @@ body {
 }
 #menu {
     font-size: 90%;
-    letter-spacing: 4px;
+    letter-spacing: 2%;
 }
 
 #menu li {
@@ -92,17 +93,17 @@ body {
 }
 
 #hero-overlay{
-    font-size: 100%;
+    font-size: 85%;
     font-family: 'Hachi Maru Pop', sans-serif;
     
-    letter-spacing: 4px;
+    letter-spacing: 3px;
 
     width: 35%;
     height: 30%;
 
-    padding-top: 1%;
+    padding-top: 2%;
     padding-right: 3%;
-    padding-left: 1%;
+    padding-left: 2%;
 
     background-color: #3a3a3a;
 
