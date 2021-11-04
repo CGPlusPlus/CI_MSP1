@@ -143,13 +143,13 @@ header {
     text-transform: uppercase;
     text-align: center;
     margin-top: 30px;
-    margin-bottom: 30px;
 }
 
-#about-h2-hr {
+.hr-thick {
     border-top: 3px solid #3a3a3a;
     width: 25%;
     margin: auto;
+    margin-bottom: 30px;
 }
 
 hr{
@@ -219,3 +219,30 @@ h3{
     height: 100%;
     border-radius: 50%;
 }
+
+/* footer */
+
+footer {
+    height: 150px;
+}
+
+.socials {
+    text-align: center;
+}
+
+.socials li{
+    display: inline;
+}
+
+.socials i{
+    font-size: 160%;
+    margin-top:10px;
+    width: 15%;
+    color: #3a3a3a;
+}
+
+.socials-note {
+    text-align: center;
+}
+
+
