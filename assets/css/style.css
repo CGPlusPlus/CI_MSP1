@@ -96,7 +96,7 @@ header {
 
 #hero-overlay a {
     color: #fff;
-    text-decoration: none !important;
+    text-decoration: none ;
 }
 
 /* Level of Zoom for Hero Image */
@@ -139,13 +139,19 @@ header {
 
 }
 
-#about-h1 {
+#about-h2 {
     font-family: 'Open Sans Condensed', sans-serif;
-    font-size: 250%;
+    font-size: 200%;
     text-transform: uppercase;
     text-align: center;
-    margin-top: 15px;
-    margin-bottom: 15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#about-h2-hr {
+    border-top: 3px solid #3a3a3a;
+    width: 25%;
+    margin: auto;
 }
 
 hr{
@@ -154,34 +160,43 @@ hr{
     margin: 5px 0;
 }
 
-#left-about {
+#left-about, #right-about {
     padding-top: 30px;
-    float: left;
     width: 33%;
     font-weight: 300;
 }
 
-#left-about h3{
+#right-about {
+    float: right;
+}
+
+#left-about {
+    float: left;
+}
+
+h3{
     font-family: 'Open Sans Condensed', sans-serif;
     font-weight: 700;
     text-transform: uppercase;
 }
-.left-about-heading {
+.left-about-heading, .right-about-heading {
     font-family: 'Zen Maru Gothic', sans-serif;
     width: 60%;
     line-height: 20px;
-    float: right;
     clear: both;
     margin-bottom: 50px;
     font-weight: 300;
 }
 
-#right-about {
-    padding-top: 30px;
+.left-about-heading {
     float: right;
-    width: 33%;
-    background-color: limegreen;
 }
+
+.right-about-heading {
+    float: left;
+    text-align: right;
+}
+
 
 #center-about {
     width: 33%;
