@@ -287,6 +287,7 @@ footer {
     margin-left: auto;
     position: relative;
     min-height: 450px;
+    max-height: 450px;
 }
 
 .left-recipe {
@@ -324,4 +325,12 @@ footer {
 
 .recipe-short{
     width: 80%;
+}
+
+/* Contact */
+#contact-form {
+    margin-top: 2rem;
+    border-style: solid 2px;
+    border-color: #3a3a3a;
+    background-color: red;
 }
