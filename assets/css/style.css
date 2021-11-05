@@ -155,7 +155,7 @@ header {
 hr{
     border-top: 1px solid #3a3a3a;
     width: 100%;
-    margin: 5px 0;
+    margin: 5px;
 }
 
 #left-about, #right-about {
@@ -249,8 +249,7 @@ footer {
 /* Recipes Page */
 #main-recipe-grid {
     color: #3a3a3a;
-    height: 600px;
-
+    height: 100%;
 }
 
 #recipe-h2 {
@@ -265,20 +264,18 @@ footer {
     padding-top: 30px;
     width: 33%;
     font-weight: 300;
+    height:33%;
 }
 
 #right-recipe-column {
     float: right;
-    background-color: red;
 }
 
 #left-recipe-column {
     float: left;
-    background-color: blue;
 }
 
 #center-recipe-column {
-    background-color: green;
     margin: 0 auto;
 }
 
@@ -287,7 +284,9 @@ footer {
     width: 80%;
     line-height: 20px;
     margin-bottom: 50px;
-    text-align: left;
+    margin-left: auto;
+    position: relative;
+    min-height: 450px;
 }
 
 .left-recipe {
@@ -298,10 +297,31 @@ footer {
 .right-recipe {
     float: left;
     clear: both;
+    margin-left: 20%;
 }
 
 .center-recipe {
     clear: none;
 }
+.main-recipe-image {
+    width: 100%;
+    margin-bottom: 20px !important;
+}
 
+.recipe-heading {
+    margin-bottom: 5px;
+    text-decoration: none;
+    line-height: 20px;
+    text-align: left;
+    letter-spacing: 3px;
+    color: #3a3a3a;
+}
+ .recipe-cost{
+     font-family: 'Open Sans Condensed', sans-serif;
+     margin-bottom: 10px;
+     color: red;
+ }
 
+.recipe-short{
+    width: 80%;
+}
