@@ -246,3 +246,62 @@ footer {
 }
 
 
+/* Recipes Page */
+#main-recipe-grid {
+    color: #3a3a3a;
+    height: 600px;
+
+}
+
+#recipe-h2 {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 200%;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 30px;
+}
+ 
+#left-recipe-column, #right-recipe-column, #center-recipe-column {
+    padding-top: 30px;
+    width: 33%;
+    font-weight: 300;
+}
+
+#right-recipe-column {
+    float: right;
+    background-color: red;
+}
+
+#left-recipe-column {
+    float: left;
+    background-color: blue;
+}
+
+#center-recipe-column {
+    background-color: green;
+    margin: 0 auto;
+}
+
+.left-recipe, .right-recipe, .center-recipe  {
+    font-family: 'Zen Maru Gothic', sans-serif;
+    width: 80%;
+    line-height: 20px;
+    margin-bottom: 50px;
+    text-align: left;
+}
+
+.left-recipe {
+    float: right;
+    clear: both;
+}
+
+.right-recipe {
+    float: left;
+    clear: both;
+}
+
+.center-recipe {
+    clear: none;
+}
+
+
