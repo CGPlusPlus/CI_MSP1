@@ -99,6 +99,12 @@ header {
     text-decoration: none ;
 }
 
+#hero-overlay a:hover {
+    color: #4CAF50;
+}
+
+
+
 /* Level of Zoom for Hero Image */
 @keyframes hero-zoom {
     from {
@@ -378,3 +384,78 @@ footer {
     display: inline-block;
     font-size: 16px;
 }
+
+#submit-button:hover {
+    background-color: #94e597;
+}
+
+/* Validation page */
+
+.validation-response a{
+    text-decoration: none;
+    color:#3a3a3a;
+}
+
+.validation-response a:hover{
+    color:#4CAF50;
+}
+
+.validation-response {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-decoration: none;
+    color:#3a3a3a;
+}
+
+/* Individual Recipe Page */
+
+.recipe-outer {
+    min-height:1000px;
+}
+
+.recipe-card {
+    margin-right: 45px;
+    margin-top: 45px;
+    margin-left: 45px;
+}
+
+.recipe-image {
+    float: right;
+}
+
+.method-ingredients {
+    float:left;
+    width: 50%;
+}
+
+.recipe-card-heading {
+    letter-spacing: 3px;
+    font-size: large;
+}
+.prep-cook {
+    margin-bottom: 15px;
+    margin-top: 15px;
+
+}
+
+.recipe-ingredients {
+    float:left;
+    width:45%;
+}
+
+.ingredients-list li{
+    font-family: 'Zen Maru Gothic', sans-serif !important;
+    list-style-type: none;
+    border-bottom: lightsteelblue solid 1px;
+}
+
+.recipe-method {
+    float:right;
+    width:45%;
+}
+
+.method-list {
+    font-family: 'Zen Maru Gothic', sans-serif !important;
+}
+
