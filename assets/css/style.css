@@ -326,7 +326,7 @@ footer {
  .recipe-cost{
      font-family: 'Open Sans Condensed', sans-serif;
      margin-bottom: 10px;
-     color: red;
+     color: #f9c642;
  }
 
 .recipe-short{
@@ -361,7 +361,7 @@ footer {
     
 }
 
-.purpose-label {
+.question {
     font-family: 'Open Sans Condensed', sans-serif;
     font-weight: 300 !important; 
 }
@@ -375,7 +375,7 @@ footer {
 }
 
 #submit-button {
-    background-color: #4CAF50; /* Green */
+    background-color: #2e8540; /* Green */
     border: none;
     color: white;
     padding: 15px 32px;
@@ -384,7 +384,6 @@ footer {
     display: inline-block;
     font-size: 16px;
 }
-
 #submit-button:hover {
     background-color: #94e597;
 }
@@ -397,7 +396,7 @@ footer {
 }
 
 .validation-response a:hover{
-    color:#4CAF50;
+    color:#2e8540;
 }
 
 .validation-response {
