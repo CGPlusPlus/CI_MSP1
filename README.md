@@ -159,7 +159,7 @@ Fonts were imported from Google fonts and the 2 used are Open Sans Condensed and
 ## Validation
 ### HTML Validation
 The W3C Nu Html Checker was used to validate all of the HTML pages. There were 2 errors over the course of creating the site, both which have been solved.
-There is also one warning relating to the use of <h1> tags, but this is a design choice as the text in the <h1> is the only text on the page (validation.html).
+There is also one warning relating to the use of 'h1' tags, but this is a design choice as the text in the 'h1' tag is the only text on the page (validation.html).
 
 ### From HTML Validator:
 •	Error: Element ul not allowed as child of element span in this context. (Suppressing further errors from this subtree.)
