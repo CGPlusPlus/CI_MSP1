@@ -48,23 +48,23 @@ Live site: https://cgplusplus.github.io/CI_MSP1/
 ### Wireframes
 
 <details><summary>Home</summary>
-<image src="/workspace/CI_MSP1/assets/docs/home.PNG">
+<image src="/assets/docs/home.PNG">
 </details> 
 
 <details><summary>Contact</summary>
-<image src="/workspace/CI_MSP1/assets/docs/contact.PNG">
+<image src="/assets/docs/contact.PNG">
 </details> 
 
 <details><summary>Recipes</summary>
-<image src="/workspace/CI_MSP1/assets/docs/Recipes.PNG">
+<image src="/assets/docs/Recipes.PNG">
 </details> 
  
 <details><summary>Individual Recipes</summary>
-<image src="/workspace/CI_MSP1/assets/docs/individual-recipe.PNG">
+<image src="/assets/docs/individual-recipe.PNG">
 </details> 
  
 <details><summary>About</summary>
-<image src="/workspace/CI_MSP1/assets/docs/about.PNG">
+<image src="/assets/docs/about.PNG">
 </details> 
  
 ### Structure
