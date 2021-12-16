@@ -88,28 +88,28 @@ Fonts were imported from Google fonts and the 2 used are Open Sans Condensed and
 •	The navigation bar is on all pages for continuity across the site
 •	It is easily read and when user is on either of the 3 main pages, the page will be highlighted.
 <details><summary>Navigation Bar</summary>
-<image src="/assets/docs/nav-bar.PNG">
+<image src="/assets/docs/nav-bar.png">
 </details> 
 
 ### Hero Image
 •	This image is to highlight that the website is dedicated to food. 
 •	There is a Hero overlay that summarises what the website offers in a few lines of text
 <details><summary>Hero Image</summary>
-<image src="/assets/docs/hero-image.PNG">
+<image src="/assets/docs/hero-image.png">
 </details> 
 
 ### Why Us?
 •	Sitting below the Hero image, this section highlights what the website offers
 •	It gives a brief insight into the ethos behind Love 2 Cook and what Users can expect
 <details><summary>Why Us?</summary>
-<image src="/assets/docs/why-us.PNG">
+<image src="/assets/docs/why-us.png">
 </details> 
 
 ### Footer
 •	The Footer sits at the bottom of each page
 •	It contains clickable links to all of the Social sites
  <details><summary>Footer</summary>
-<image src="/assets/docs/footer.PNG">
+<image src="/assets/docs/footer.png">
 </details> 
 
 ### Recipes
@@ -117,7 +117,7 @@ Fonts were imported from Google fonts and the 2 used are Open Sans Condensed and
 •	Each column has recipe cards that link out to each individual recipe
 •	There is a short blurb on what the recipe is and there is a recipe cost under the image of each recipe
 <details><summary>Recipes Main</summary>
-<image src="/assets/docs/recipes-main.PNG">
+<image src="/assets/docs/recipes-main.png">
 </details> 
 
 ### Individual Recipes
@@ -134,14 +134,14 @@ Fonts were imported from Google fonts and the 2 used are Open Sans Condensed and
 •	There are some mandatory fields and a test box at the bottom for whatever needs communicating.
 •	Also there is a radio button to determine what the contact is for
 <details><summary>Contact</summary>
-<image src="/assets/docs/contact-form.PNG">
+<image src="/assets/docs/contact-form.png">
 </details> 
  
 ### Validation
 •	Finally, there is a Validation page, that appears once the Submit button is clicked.
 •	This is just to provide feedback to the User that their form has been sent.
  <details><summary>Validation</summary>
-<image src="/assets/docs/validation.PNG">
+<image src="/assets/docs/validation.png">
 </details>
 
 ## Technologies Utilised
@@ -179,20 +179,20 @@ Solution: changed from % to px
 Google Lighthouse in Chrome Developer Tools was used to check the website performance indicators. The pages performance readings are below:
 
 <details><summary>Home Performance</summary>
-<image src="/assets/docs/home-performance.PNG">
+<image src="/assets/docs/home-performance.png">
 </details>
 
 <details><summary>Recipes</summary>
-<image src="/assets/docs/recipes-performance.PNG">
+<image src="/assets/docs/recipes-performance.png">
 </details>
  
  <details><summary>Contact Performance</summary>
-<image src="/assets/docs/contact-performance.PNG">
+<image src="/assets/docs/contact-performance.png">
 </details>
  
 
 <details><summary>Individual Recipes</summary>
-<image src="/assets/docs/individual-recipes-performance.PNG">
+<image src="/assets/docs/individual-recipes-performance.png">
 </details>
  
 
