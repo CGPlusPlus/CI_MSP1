@@ -199,7 +199,7 @@ Google Lighthouse in Chrome Developer Tools was used to check the website perfor
 
 ## Issues
 •	From the beginning I was under time restraints and due to personal issues this got exacerbated  
-•	This did not leave enough time for testing and responsive coding meaning it had to be excluded. The site will work on PC/Laptop browser, but is not responsive for Mobile and Tablet  
+•	This did not leave enough time for testing and responsive coding of all html pages. The site Home Page will work on PC/Laptop browser and mobile devices up to 460px width, but the remainder of pages are not responsive for Mobile.  
 •	Smaller issues include:  
 o	The need to add extra permissions to Gitpod for GitHUB for Write access.  
 o	Header Menu was back to front - to solve the elements were placed within a span element.  
